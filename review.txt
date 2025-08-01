@@ -1,0 +1,14 @@
+deductions in assignment_1_aryan.html file
+
+1. DOCTYPE html5 was required but was not changed = -10
+2. Very Bad Indexing = -30
+3. anchor tag doesn't need to be inside of paragraph tag = -10
+4. Bad naming for the files = -5 (file names doesn't include personal names and info)
+
+deductions in ass_aryan_style.html file
+
+5. Very Bad Indexing = -5
+
+Total = 300 - (10+30+10+5+5)
+        = 300 - 60
+        = 240 rupees
